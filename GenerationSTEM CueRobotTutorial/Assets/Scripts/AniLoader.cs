@@ -17,7 +17,18 @@ public class AniLoader : MonoBehaviour
     public GameObject p_s;
     //block code options - 4
     public GameObject options;
-
+    //actions - 5a
+    public GameObject actions;
+    //actions - 5b
+    public GameObject control;
+    //code scene - 6
+    public GameObject codescene;
+    //code scene - 7
+    public GameObject bikearea;
+    //example - 8
+    public GameObject example;
+    //their turn - 9
+    public GameObject turn;
 
     // Start is called before the first frame update
     void Start()
@@ -68,43 +79,73 @@ public class AniLoader : MonoBehaviour
         options.gameObject.SetActive(true);
 
         yield return new WaitForSeconds(5.25f);
-        //StartCoroutine(MoveOn2());
+        StartCoroutine(Actions());
 
     }
 
-    //----- storyboard #6 -----
-    /*IEnumerator Science()
+//----- 5a -----
+    IEnumerator Actions()
     {
-        Sbackground.gameObject.SetActive(true);
-        yield return new WaitForSeconds(3f);
-        planets.gameObject.SetActive(true);
-        yield return new WaitForSeconds(1.5f);
-        earth.gameObject.SetActive(true);
-        yield return new WaitForSeconds(1.5f);
-        plants.gameObject.SetActive(true);
+        Destroy(options);
+        yield return new WaitForSeconds(1f);
+        actions.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(3.5f);
+        yield return new WaitForSeconds(5.25f);
+        StartCoroutine(Controls());
+    }
 
-        //go to next board
-        StartCoroutine(Technology());
-    }*/
+//----- 5b -----
+    IEnumerator Controls()
+    {
+        Destroy(actions);
+        yield return new WaitForSeconds(1f);
+        control.gameObject.SetActive(true);
 
+        yield return new WaitForSeconds(5.25f);
+        StartCoroutine(CodeArea());
+    }
 
+//----- c -----
+    IEnumerator CodeArea()
+    {
+        Destroy(control);
+        yield return new WaitForSeconds(1f);
+        codescene.gameObject.SetActive(true);
 
-    /* //----- storyboard #19 -----
-     IEnumerator End()
-     {
-         //deactivite the previous
-         Destroy(blckCode);
-         Destroy(robots);
-         //start new board
-         characters.gameObject.SetActive(true);
-         yield return new WaitForSeconds(1.75f);
-         bye.gameObject.SetActive(true);
-         yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(5.25f);
+        StartCoroutine(BikeArea());
+    }
 
-         //load menu again
-         SceneManager.LoadScene("StartPage");
-     }*/
+    //----- 5b -----
+    IEnumerator BikeArea()
+    {
+        Destroy(codescene);
+        yield return new WaitForSeconds(1f);
+        bikearea.gameObject.SetActive(true);
+
+        yield return new WaitForSeconds(5.25f);
+        StartCoroutine(ExampleCode());
+    }
+
+    //----- 5b -----
+    IEnumerator ExampleCode()
+    {
+        Destroy(bikearea);
+        yield return new WaitForSeconds(1f);
+        example.gameObject.SetActive(true);
+
+        yield return new WaitForSeconds(7f);
+        StartCoroutine(TheEnd());
+    }
+
+    //----- 5b -----
+    IEnumerator TheEnd()
+    {
+        Destroy(example);
+        yield return new WaitForSeconds(1f);
+        turn.gameObject.SetActive(true);
+
+        //yield return new WaitForSeconds(5.25f);
+    }
 
 }
