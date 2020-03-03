@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{25A8053B-C1D7-0B01-649F-C02E4237CFD8}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoader.cs">
     <Files>
-      <File FileName="Assets/Scripts/SceneLoader.cs" Line="20" Column="1" />
-      <File FileName="Assets/Scripts/SceneLoader.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/AniLoader.cs" Line="65" Column="6" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="21" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c3ffc61e-d2dc-4d8f-a8d8-db100fa46f34" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d18b42f7-0ee2-4393-a55f-bfca6bf4a808" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

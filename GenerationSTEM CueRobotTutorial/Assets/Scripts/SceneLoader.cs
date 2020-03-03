@@ -16,4 +16,9 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void Transition()
+    {
+        SceneManager.LoadScene("Transition");
+    }
+
 }
