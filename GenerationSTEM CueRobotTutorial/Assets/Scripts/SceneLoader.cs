@@ -16,6 +16,11 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void StartScreen()
+    {
+        SceneManager.LoadScene("StartScene");
+    }
+
     public void Transition()
     {
         SceneManager.LoadScene("Transition");

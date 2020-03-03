@@ -43,7 +43,7 @@ public class AniLoader : MonoBehaviour
         yield return new WaitForSeconds(1f);
         intro.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(5.25f);
+        yield return new WaitForSeconds(5f);
         StartCoroutine(Trash());
     }
 
@@ -66,7 +66,7 @@ public class AniLoader : MonoBehaviour
         yield return new WaitForSeconds(1f);
         p_s.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(5.25f);
+        yield return new WaitForSeconds(5.5f);
         StartCoroutine(BlockCode());
 
     }
@@ -90,7 +90,7 @@ public class AniLoader : MonoBehaviour
         yield return new WaitForSeconds(1f);
         actions.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(5.25f);
+        yield return new WaitForSeconds(4.80f);
         StartCoroutine(Controls());
     }
 
@@ -112,7 +112,7 @@ public class AniLoader : MonoBehaviour
         yield return new WaitForSeconds(1f);
         codescene.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(5.25f);
+        yield return new WaitForSeconds(4f);
         StartCoroutine(BikeArea());
     }
 
@@ -123,7 +123,7 @@ public class AniLoader : MonoBehaviour
         yield return new WaitForSeconds(1f);
         bikearea.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(5.25f);
+        yield return new WaitForSeconds(8f);
         StartCoroutine(ExampleCode());
     }
 
@@ -134,7 +134,7 @@ public class AniLoader : MonoBehaviour
         yield return new WaitForSeconds(1f);
         example.gameObject.SetActive(true);
 
-        yield return new WaitForSeconds(7f);
+        yield return new WaitForSeconds(10f);
         StartCoroutine(TheEnd());
     }
 
