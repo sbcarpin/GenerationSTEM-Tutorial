@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{25A8053B-C1D7-0B01-649F-C02E4237CFD8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/mouseclick.cs">
     <Files>
-      <File FileName="Assets/Scripts/AniLoader.cs" Line="137" Column="43" />
-      <File FileName="Assets/Scripts/SceneLoader.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/mouseclick.cs" Line="9" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +9,7 @@
           <Node name="GenerationSTEM CueRobotTutorial" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="SceneLoader.cs" selected="True" />
+                <Node name="ButtonLoader.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -20,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d18b42f7-0ee2-4393-a55f-bfca6bf4a808" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="64e6393e-305f-45ae-90e3-abff0141e5a6" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

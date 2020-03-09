@@ -380,7 +380,7 @@ GameObject:
   - component: {fileID: 233220899}
   m_Layer: 0
   m_Name: ControlSection
-  m_TagString: Untagged
+  m_TagString: ControlSection
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -564,8 +564,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 882922412}
-        m_MethodName: StartScreen
+      - m_Target: {fileID: 882922414}
+        m_MethodName: Transition
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1061,6 +1061,7 @@ GameObject:
   m_Component:
   - component: {fileID: 882922413}
   - component: {fileID: 882922412}
+  - component: {fileID: 882922414}
   m_Layer: 0
   m_Name: ButtonTransition
   m_TagString: Untagged
@@ -1077,9 +1078,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 882922411}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8ab939b56017f47ca92c2ed7d92323f4, type: 3}
+  m_Script: {fileID: 11500000, guid: ac4e74d8a3d7d407c87ed596a6eb5ee8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Action: {fileID: 931628195}
+  Control: {fileID: 233220898}
 --- !u!4 &882922413
 Transform:
   m_ObjectHideFlags: 0
@@ -1088,12 +1091,24 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 882922411}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 178.56793, y: 628.3545, z: -822.1}
+  m_LocalPosition: {x: -8.5, y: 0.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &882922414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 882922411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ab939b56017f47ca92c2ed7d92323f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &931628195
 GameObject:
   m_ObjectHideFlags: 0
@@ -1105,7 +1120,7 @@ GameObject:
   - component: {fileID: 931628196}
   m_Layer: 0
   m_Name: ActionsSection
-  m_TagString: Untagged
+  m_TagString: ActionsSection
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1208,7 +1223,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1227110149}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 882922412}
+        m_MethodName: ActionButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1227110149
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1335,6 +1361,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1294634486}
   - component: {fileID: 1294634485}
+  - component: {fileID: 1294634487}
   m_Layer: 0
   m_Name: area02
   m_TagString: Untagged
@@ -1405,6 +1432,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1294634487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294634484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac4e74d8a3d7d407c87ed596a6eb5ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Action: {fileID: 931628195}
+  Control: {fileID: 233220898}
 --- !u!1 &1301804083
 GameObject:
   m_ObjectHideFlags: 0
@@ -2002,7 +2043,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2100166455}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 882922412}
+        m_MethodName: ControlButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2100166455
 MonoBehaviour:
   m_ObjectHideFlags: 0
