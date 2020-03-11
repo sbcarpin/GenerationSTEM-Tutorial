@@ -19,10 +19,4 @@ public class ButtonLoader : MonoBehaviour
         Control.gameObject.SetActive(true);
     }
 
-    void OnMouseDown()
-    {
-        Action.gameObject.SetActive(false);
-        Control.gameObject.SetActive(false);
-    }
-
 }
