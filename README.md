@@ -8,5 +8,5 @@ There are four scenes in this Unity Project:
 1. Start Scene - gives the 2 options to the students (start activity. tutorial)
 2. Tutorial Scene - simple animation
 3. Transition Scene - a simple animation that explains the prompt(the coding task students should do)
-4. Game Sense - the block code activity
+4. Game Scene - the block code activity
 
