@@ -7,9 +7,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -19,9 +19,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -31,9 +31,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -43,9 +43,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -97,9 +97,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -109,9 +109,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -121,9 +121,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -161,9 +161,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -243,9 +243,9 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -255,9 +255,9 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -267,9 +267,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -279,9 +279,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -291,9 +291,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -303,9 +303,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -315,9 +315,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -327,9 +327,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -339,9 +339,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -351,9 +351,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -363,9 +363,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -375,9 +375,9 @@
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -387,9 +387,9 @@
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -399,9 +399,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -411,9 +411,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -423,9 +423,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -444,9 +444,9 @@
             "moduleName": "TextRendering",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -456,9 +456,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -468,9 +468,9 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
+                "Assets/Scenes/Transition.unity",
+                "Assets/Scenes/Game.unity"
             ]
         },
         {
@@ -480,26 +480,8 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/StartScene.unity",
-                "Assets/Scenes/Game.unity",
                 "Assets/Scenes/Tutorial.unity",
-                "Assets/Scenes/Transition.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "Collider",
-            "fullManagedTypeName": "UnityEngine.Collider",
-            "moduleName": "Physics",
-            "usedInScenes": [
-                "Assets/Scenes/Game.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "BoxCollider",
-            "fullManagedTypeName": "UnityEngine.BoxCollider",
-            "moduleName": "Physics",
-            "usedInScenes": [
+                "Assets/Scenes/Transition.unity",
                 "Assets/Scenes/Game.unity"
             ]
         },
@@ -610,6 +592,24 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Transition.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Collider",
+            "fullManagedTypeName": "UnityEngine.Collider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/Game.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "BoxCollider",
+            "fullManagedTypeName": "UnityEngine.BoxCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/Game.unity"
             ]
         },
         {

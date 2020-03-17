@@ -733,7 +733,7 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/StartScene.unity
-  - Assets/Scenes/Game.unity
   - Assets/Scenes/Tutorial.unity
   - Assets/Scenes/Transition.unity
-  playerPath: /Users/stephaniecf/Desktop/FirstTutorial
+  - Assets/Scenes/Game.unity
+  playerPath: /Users/stephaniecf/Desktop/FirstGenSTEMTutorial

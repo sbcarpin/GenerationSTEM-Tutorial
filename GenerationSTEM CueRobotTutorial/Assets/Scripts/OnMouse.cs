@@ -19,7 +19,7 @@ public class OnMouse : MonoBehaviour
         
     }
 
-    void OnMouseDown()
+    private void OnMouseDown()
     {
         Control.gameObject.SetActive(false);
         Action.gameObject.SetActive(false);

@@ -418,21 +418,21 @@ RegisterBuiltinTypes();
 	RegisterUnityClass<LevelGameManager>("Core");
 	//63. RenderSettings
 	RegisterUnityClass<RenderSettings>("Core");
-	//64. Collider
-	RegisterUnityClass<Collider>("Physics");
-	//65. BoxCollider
-	RegisterUnityClass<BoxCollider>("Physics");
-	//66. AnimationClip
+	//64. AnimationClip
 	RegisterUnityClass<AnimationClip>("Animation");
-	//67. Motion
+	//65. Motion
 	RegisterUnityClass<Motion>("Animation");
-	//68. AudioClip
+	//66. AudioClip
 	RegisterUnityClass<AudioClip>("Audio");
-	//69. SampleClip
+	//67. SampleClip
 	RegisterUnityClass<SampleClip>("Audio");
-	//70. AnimatorController
+	//68. AnimatorController
 	RegisterUnityClass<AnimatorController>("Animation");
-	//71. AudioSource
+	//69. AudioSource
 	RegisterUnityClass<AudioSource>("Audio");
+	//70. Collider
+	RegisterUnityClass<Collider>("Physics");
+	//71. BoxCollider
+	RegisterUnityClass<BoxCollider>("Physics");
 
 }
