@@ -26,7 +26,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -736,4 +735,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Tutorial.unity
   - Assets/Scenes/Transition.unity
   - Assets/Scenes/Game.unity
-  playerPath: /Users/stephaniecf/Desktop/FirstGenSTEMTutorial
+  playerPath: /Users/stephaniecf/Desktop/2ndGenSTEMTutorial
