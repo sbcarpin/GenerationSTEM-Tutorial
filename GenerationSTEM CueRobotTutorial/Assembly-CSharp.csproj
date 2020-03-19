@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AniLoader.cs" />
+    <Compile Include="Assets\Scripts\BackButton.cs" />
     <Compile Include="Assets\Scripts\ButtonLoader.cs" />
     <Compile Include="Assets\Scripts\OnMouse.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
